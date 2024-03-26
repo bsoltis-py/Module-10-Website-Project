@@ -5,6 +5,8 @@ color:red;
 background-color:black;
 }
 
+/* this affects the third element in the list */
 .list li:nth-child(3) {
 color: blue;
+background-color: black;
 }
