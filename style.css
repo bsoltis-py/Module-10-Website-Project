@@ -1,6 +1,6 @@
 
-/* this affects the third child in a list */
-.list li:first-child(2) {
+/* this affects the first child in a list */
+.list li:first-child {
 color:red;
 background-color:black;
 }
