@@ -1,11 +1,11 @@
 
-/* this affects the third element in a list */
+/* this affects the third child in a list */
 .list li:first-child(2) {
 color:red;
 background-color:black;
 }
 
-/* this affects the third element in the list */
+/* this affects the third child in the list */
 .list li:nth-child(3) {
 color: blue;
 background-color: black;
